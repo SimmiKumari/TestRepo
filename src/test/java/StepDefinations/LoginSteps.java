@@ -14,7 +14,7 @@ public class LoginSteps {
 
 	@When("user gives user1 and pass1")
 	public void user_gives_user1_and_pass1() {
-	    // Write code here that turns the phrase above into concrete actions
+		System.out.println("entered username and password");
 	}
 
 	@When("user clicks on login button")
